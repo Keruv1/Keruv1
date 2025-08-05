@@ -1,14 +1,40 @@
-### Hi there 👋,  Semih Yemişci
-#### Backend Developer
-I'm Semih from Turkey, I really enjoy learning languages, like c# java but for now i m focus c#, I also enjoy play games. That's all you need to know :))
+### Hi there 👋, I'm Semih Yemişci
 
-Skills: .NET/ADONET
+#### 🧠 Backend Developer | Fullstack Mindset | .NET Core Specialist
 
-- 🔭 I’m currently working on my life.... 
-- 🌱 I’m currently learning C# 
+I'm Semih from Turkey — a backend developer with 3+ years of professional experience in .NET Core stack. I love solving real-world problems, building scalable APIs, and designing clean architecture systems.
 
-<img src ="https://github.com/Keruv1/Keruv1/blob/main/giphy.gif" />
+Currently, I’m working as a fullstack developer at AifTeam. My focus is mainly on backend with .NET Core, EF Core, and SQL Server, but I also build frontend projects with React and sometimes Flutter.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Keruv1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/semih.yemisci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/semih4real/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/semih4real)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18298424)  
+### 🧰 Tech Stack
+
+- 🧠 Backend: `.NET Core`, `EF Core`, `ASP.NET API`, `LINQ`, `ADO.NET`
+- 💾 Databases: `SQL Server`, `PostgreSQL`, `MongoDB`
+- 🌐 Frontend: `React.js`, `Flutter`, `JavaScript`
+- ☁️ DevOps: `Docker`, `CI/CD`, `Git`, `Azure`, `Firebase`
+- 📦 Others: `SOLID Principles`, `Clean Architecture`, `RESTful APIs`, `JWT`, `CQRS`
+
+---
+
+### 🚀 What I'm Doing Now
+
+- Developing scalable backend systems using `.NET Core`, `EF Core`, and `PostgreSQL`
+- Architecting RESTful APIs with clean layering and domain-driven design (DDD)
+- Refactoring legacy systems to modern architectures (CQRS, Repository Pattern, etc.)
+- Working with high-traffic production systems, handling performance and optimization
+- Integrating third-party services (ERP, payment gateways, external APIs)
+- Building AI-powered features on top of existing APIs (FastAPI backend + AI models)
+- Occasionally creating fullstack prototypes using React or Flutter
+
+---
+
+### 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/semihyemisci)  
+
+---
+
+<img src="[https://media.makeagif.com/media/2021/4/8/S6XIQ-hH0EcLkngM9Q46Kg.gif](https://github.com/Keruv1/Keruv1/blob/main/giphy.gif)" width="600" />
 
