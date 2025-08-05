@@ -36,5 +36,5 @@ Currently, I’m working as a fullstack developer at AifTeam. My focus is mainly
 
 ---
 
-<img src="[https://media.makeagif.com/media/2021/4/8/S6XIQ-hH0EcLkngM9Q46Kg.gif](https://github.com/Keruv1/Keruv1/blob/main/giphy.gif)" width="600" />
+<img src ="https://github.com/Keruv1/Keruv1/blob/main/giphy.gif" />
 
