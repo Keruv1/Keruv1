@@ -36,5 +36,4 @@ Currently, I’m working as a fullstack developer at AifTeam. My focus is mainly
 
 ---
 
-<img src ="https://github.com/Keruv1/Keruv1/blob/main/giphy.gif" />
 
